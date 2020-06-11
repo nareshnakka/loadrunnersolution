@@ -1,0 +1,1 @@
+G:/ELK2/logstash-7.5.0/bin/logstash -f "G:\ELK2\logstash-7.5.0\config\logstash-samplelr.conf"
